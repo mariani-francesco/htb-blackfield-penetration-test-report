@@ -4,7 +4,7 @@
 
 This repository contains a professional-style penetration testing report for **Blackfield**, a retired Hack The Box machine.
 
-The objective of this project is to document the full penetration testing lifecycle in a clear, structured, and client-ready format. The report focuses on methodology, evidence, impact, and remediation rather than simply presenting a CTF walkthrough.
+I built this project to document the entire penetration testing lifecycle in a clear, structured way. Instead of just sharing a standard CTF walkthrough, this report focuses on real-world methodology, evidence, impact, and remediation
 
 ## Target Information
 
