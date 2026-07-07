@@ -60,8 +60,6 @@ The final report follows a professional penetration testing format:
 
 The goal of this project is not only to demonstrate exploitation techniques, but also to show the ability to communicate technical risk in a structured and professional way.
 
-The report is written as if it were delivered to a client or reviewed by a penetration testing team lead.
-
 ## Disclaimer
 
 This project was created for educational and portfolio purposes only.
