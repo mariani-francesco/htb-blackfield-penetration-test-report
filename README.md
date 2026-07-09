@@ -6,7 +6,7 @@ The goal was not to create another CTF walkthrough, but to document the assessme
 
 ## Report
 
-[Download the Blackfield Penetration Test Report](./Blackfield-Penetration-Test-Report.pdf)
+[Download the Blackfield Penetration Test Report](https://github.com/mariani-francesco/htb-blackfield-penetration-test-report/blob/main/Francesco-Mariani-Blackfield-Penetration-Test-Report.pdf)
 
 ## What I worked on
 
