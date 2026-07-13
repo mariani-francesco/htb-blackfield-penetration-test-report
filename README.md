@@ -8,15 +8,15 @@ The goal was not to create another CTF walkthrough, but to document the assessme
 
 [Download the Blackfield Penetration Test Report](https://github.com/mariani-francesco/htb-blackfield-penetration-test-report/blob/main/Francesco-Mariani-Blackfield-Penetration-Test-Report.pdf)
 
-## What I worked on
+## Technical Areas Covered
 
-- SMB and Active Directory enumeration
-- Kerberos attacks and credential recovery
-- BloodHound privilege path analysis
-- Active Directory ACL abuse
-- Pass-the-hash and Windows privilege escalation
-- LSASS and NTDS.dit analysis
-- Evidence collection and remediation writing
+- Network, SMB, and Active Directory enumeration
+- Kerberos authentication analysis and offline credential recovery
+- BloodHound-based attack-path and privilege relationship analysis
+- Active Directory ACL and delegated permission abuse
+- Pass-the-hash authentication and Windows privilege escalation
+- LSASS memory dump and NTDS.dit credential analysis
+- Evidence handling, risk assessment, and remediation recommendations
 
 ## Disclaimer
 
